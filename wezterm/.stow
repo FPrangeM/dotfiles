@@ -1,0 +1,3 @@
+# GNU Stow configuration for WezTerm
+# This file tells stow to ignore this directory when stowing
+# and to only symlink the .wezterm.lua file to ~/.wezterm.lua
