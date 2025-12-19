@@ -1,0 +1,9 @@
+[Nemo Action]
+Active=true
+Name=Abrir com WezTerm
+Comment=Abrir WezTerm neste diretório
+Exec=wezterm start --cwd %P
+Icon-Name=org.wezfurlong.wezterm
+Selection=any
+Extensions=dir;
+Quote=double
