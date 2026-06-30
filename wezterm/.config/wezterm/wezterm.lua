@@ -9,8 +9,8 @@ config.font_size = 10
 config.color_scheme = 'Dracula (Official)'
 
 
-config.window_decorations = 'RESIZE'
-config.window_background_opacity = 0.97
+config.window_decorations = 'NONE'
+config.window_background_opacity = 0.95
 
 config.enable_tab_bar = false
 
