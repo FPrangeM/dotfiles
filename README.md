@@ -2,6 +2,14 @@
 
 Gerenciamento de arquivos de configuração pessoal usando GNU Stow.
 
+
+## Pre-Requisitos
+    -stow
+    -zoxide
+    -wezterm
+
+
+
 ## Instalação
 
 ```bash
