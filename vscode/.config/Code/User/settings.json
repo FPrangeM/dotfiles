@@ -1,0 +1,7 @@
+{
+        "editor.selectionClipboard": false,
+        "explorer.confirmPasteNative": false,
+        "workbench.colorTheme": "Catppuccin Mocha",
+        "workbench.iconTheme": "bearded-icons",
+        "git.enableSmartCommit": true
+}
