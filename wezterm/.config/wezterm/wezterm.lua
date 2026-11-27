@@ -18,7 +18,7 @@ config.enable_tab_bar = false
 config.keys = {
   { key = 'o', mods = 'CTRL|SHIFT', action = wezterm.action.SplitHorizontal { domain = 'CurrentPaneDomain' } },
   { key = 'e', mods = 'CTRL|SHIFT', action = wezterm.action.SplitVertical { domain = 'CurrentPaneDomain' } },
-  { key = 'w', mods = 'CTRL', action = wezterm.action.CloseCurrentPane { confirm = true }},
+  { key = 'w', mods = 'CTRL', action = wezterm.action.CloseCurrentPane { confirm = false }},
 }
 
 

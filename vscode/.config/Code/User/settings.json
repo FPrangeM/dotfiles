@@ -3,5 +3,14 @@
         "explorer.confirmPasteNative": false,
         "workbench.colorTheme": "Catppuccin Mocha",
         "workbench.iconTheme": "bearded-icons",
-        "git.enableSmartCommit": true
+        "git.enableSmartCommit": true,
+        "git.confirmSync": false,
+        "workbench.browser.openLocalhostLinks": false,
+        "git.autofetch": true,
+        "explorer.confirmDelete": false,
+        "jupyter.askForKernelRestart": false,
+        "security.workspace.trust.untrustedFiles": "open",
+        "continue.showInlineTip": false,
+        "explorer.confirmDragAndDrop": false,
+        "notebook.confirmDeleteRunningCell": false
 }
